@@ -1,0 +1,15 @@
+{
+    "name": "nwidart/coinv2",
+    "description": "",
+    "authors": [
+        {
+            "name": "CallMeZ",
+            "email": "callme-z@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Modules\\Coinv2\\": ""
+        }
+    }
+}

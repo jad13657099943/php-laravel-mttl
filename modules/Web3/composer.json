@@ -1,0 +1,18 @@
+{
+    "name": "nwidart/web3",
+    "description": "",
+    "authors": [
+        {
+            "name": "CallMeZ",
+            "email": "callme-z@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Modules\\Web3\\": ""
+        }
+    },
+    "suggest": {
+        "sc0vu/web3.php": "Required to use Web3 (dev-master)."
+    }
+}

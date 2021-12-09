@@ -1,0 +1,14 @@
+{
+    "name": "Mttl",
+    "alias": "mttl",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Mttl\\Providers\\MttlServiceProvider",
+        "Modules\\Mttl\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

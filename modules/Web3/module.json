@@ -1,0 +1,14 @@
+{
+    "name": "Web3",
+    "alias": "web3",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Web3\\Providers\\Web3ServiceProvider",
+        "Modules\\Web3\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

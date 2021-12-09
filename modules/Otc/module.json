@@ -1,0 +1,17 @@
+{
+    "name": "Otc",
+    "alias": "otc",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Otc\\Providers\\OtcServiceProvider",
+        "Modules\\Otc\\Providers\\RouteServiceProvider",
+        "Modules\\Otc\\Providers\\EventServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "helper.php"
+    ],
+    "requires": []
+}

@@ -1,0 +1,28 @@
+<?php
+return [
+
+    '注册' => 'Register',
+    '手机注册' => 'Mobile',
+    '邮箱注册' => 'Email',
+    '请输入手机号' => 'Please enter mobile phone number',
+    '请输入邮箱号' => 'Please enter email number',
+    '验证码' => 'Verification Code',
+    '获取验证码' => 'Get',
+    '请输入登录密码格式' => 'Login password (8-20 digits, letters + numbers)',
+    '请确认登录密码' => 'Please confirm the login password',
+    '请输入邀请码' => 'Please enter the invitation code',
+    '下载' => 'Download',
+    '请填写手机号码' => 'Please fill in the mobile phone number',
+    '请填写邮箱号' => 'Please fill in the email number',
+    '请填写验证码' => 'Please fill in the verification code',
+    '请填写推荐码' => 'Please fill in the recommendation code',
+    '请填写登录密码' => 'Please fill in the login password',
+    '确认登录密码不相同' => 'Confirm login password is not the same',
+    '注册成功' => 'Successful',
+    '已发送' => 'Has been sent',
+    '网络错误，请重试' => 'Network error, please try again',
+    '请输入正确手机号' => 'Please input the correct mobile phone number',
+    '技术引领未来'=>'Technology leads the future',
+    '官方APP'=>'Official APP',
+    '处理中' => 'Register...',
+];

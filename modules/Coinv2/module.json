@@ -1,0 +1,14 @@
+{
+    "name": "Coinv2",
+    "alias": "coinv2",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Coinv2\\Providers\\Coinv2ServiceProvider",
+        "Modules\\Coinv2\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

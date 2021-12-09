@@ -1,0 +1,15 @@
+{
+    "name": "Coin",
+    "alias": "coin",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Coin\\Providers\\CoinServiceProvider",
+        "Modules\\Coin\\Providers\\EventServiceProvider",
+        "Modules\\Coin\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

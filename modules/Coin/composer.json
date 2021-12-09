@@ -1,0 +1,19 @@
+{
+    "name": "tokeniocn/coin-module",
+    "description": "",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "CallMeZ",
+            "email": "callme-z@qq.com"
+        }
+    ],
+    "suggest": {
+        "ccxt/ccxt": "Required to use Exchange (^1.0)."
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Coin\\": ""
+        }
+    }
+}
